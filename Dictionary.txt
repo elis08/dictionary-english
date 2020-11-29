@@ -2344,3 +2344,6 @@ The girl's bag;Dívčí taška;_5.Třída 2;0;;0;;
 What's the time please?;Jaký je čas, prosím?;_5.Třída 2;0;;0;;
 What time is it?;Kolik je hodin?;_5.Třída 2;0;;0;;
 bald;plešatý;_5.Třída 2;0;;0;;
+I do it myself;dělám to sama;_5.Třída 2;0;;0;;
+do it yourself;udělej si to sám (sama);_5.Třída 2;0;;0;;
+for whom;pro koho;_5.Třída 2;0;;0;;
