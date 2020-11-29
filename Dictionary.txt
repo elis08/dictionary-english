@@ -2347,3 +2347,6 @@ bald;plešatý;_5.Třída 2;0;;0;;
 I do it myself;dělám to sama;_5.Třída 2;0;;0;;
 do it yourself;udělej si to sám (sama);_5.Třída 2;0;;0;;
 for whom;pro koho;_5.Třída 2;0;;0;;
+You can buy a drink in a cafe.;Můžeš si koupit nápoj v kavárně.;_5.Třída 2;0;;0;;
+How much is the shirt?;Kolik stojí ta košile?;_5.Třída 2;0;;0;;
+buy;koupit, nakoupit;_5.Třída 2;0;;0;;
