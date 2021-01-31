@@ -2568,3 +2568,6 @@ What are your favourite subjects?;Jaké jsou tvoje oblíbené předměty?;_5.Tř
 Which subjects are you goot at?;Ve kterých předmětech jsi dobrá?;_5.Třída 5;0;;0;;
 What class are you in?;Do jaké třídy chodíš?;_5.Třída 5;0;;0;;
 What lessons have you got on Monday?;Jaké lekce máš v pondělí?;_5.Třída 5;0;;0;;
+exam;zkouška;_5.Třída 5;0;;0;;
+match;zápas, utkání;_5.Třída 5;0;;0;;
+to;do;_5.Třída 5;0;;0;;
