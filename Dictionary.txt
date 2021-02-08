@@ -2571,3 +2571,13 @@ What lessons have you got on Monday?;Jaké lekce máš v pondělí?;_5.Třída 5
 exam;zkouška;_5.Třída 5;0;;0;;
 match;zápas, utkání;_5.Třída 5;0;;0;;
 to;do;_5.Třída 5;0;;0;;
+ate;jedl;_5.Třída 5;0;;0;;
+spoke;mluvil;_5.Třída 5;0;;0;;
+flew;letěl;_5.Třída 5;0;;0;;
+got;získal;_5.Třída 5;0;;0;;
+gave;věnoval;_5.Třída 5;0;;0;;
+swam;plaval;_5.Třída 5;0;;0;;
+spelled;hláskoval;_5.Třída 5;0;;0;;
+took;vzal;_5.Třída 5;0;;0;;
+read;četl;_5.Třída 5;0;;0;;
+put;položil;_5.Třída 5;0;;0;;
